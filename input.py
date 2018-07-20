@@ -49,12 +49,12 @@ while True:
 
 
 #continue executes the rest of the code in the loop
-while True:
+"""while True:
     message = input(prompt_2)
     if message == 'quit':
         continue
     else:
-        print("Really, I'd love to go there")
+        print("Really, I'd love to go there")"""
 
 unconfirmed_users = ['tillman', 'william', 'caroline']
 confirmed_users = []
