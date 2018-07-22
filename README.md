@@ -1,2 +1,2 @@
 # learn_python
-#These are just some simple projects as I teach myself Python
+#These are just my notes as I teach myself Python
