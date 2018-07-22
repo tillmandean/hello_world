@@ -25,5 +25,13 @@ def languages_i_am_learning (coding_lang='python', lang='french'):
     print("I'm learning " + coding_lang.title() + " and " + lang.title() + ".")
 
 languages_i_am_learning()
-languages_i_am_learning(coding_lang='java', lang='german')"""
+languages_i_am_learning(coding_lang='java', lang='german')
+
+def get_formatted_name(first_name, last_name, middle_name=''):
+    """Return a full name, neatly formatted."""
+    full_name = first_name + ' ' + last_name
+    return full_name.title()
+
+manager = get_formatted_name('lucien', 'favre')
+print(manager)
 
