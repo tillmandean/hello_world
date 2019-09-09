@@ -1,4 +1,4 @@
-human_0 = {'age' : '17', 'height' : '5 foot 10', 'hair color' : 'brown'}
+human_0 = {'age' : '18', 'height' : '5 foot 10', 'hair color' : 'brown'}
 print(human_0['age'])
 print(human_0)
 
