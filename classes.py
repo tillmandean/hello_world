@@ -50,10 +50,6 @@ class Double_Doodle(Dog):
         super().__init__(name, age)
 
 
-my_doodle = DoubleDoodle('lucy', 5)
+my_doodle = Double_Doodle('lucy', 5)
 my_doodle.describe_dog()
-
-
-
-
-
+my_doodle.read_recommended_food()
