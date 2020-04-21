@@ -64,8 +64,3 @@ while True:
         print("You can't divide by zero")
     else:
         print(answer)
-
-
-
-
-
